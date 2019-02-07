@@ -12,6 +12,7 @@
 	Rolling    - Left Shift + Movement
 	Shooting   - Left Mouse
 	Reloading  - Right Mouse or R
+	Heal	   - Q
 	Pause Menu - ESC
 
 --3rd Party Assets
